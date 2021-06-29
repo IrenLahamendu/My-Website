@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(247, 233, 233);
+}
+h1.first {
+    font-family: 'acme';
+    font-size: 33px;
+    border-style: outset;
+    border-width: 10px;
+}
+
+#top {
+    background-color: rgb(235, 220, 220);
+   
+}
+
+#topone-service {
+    background-color: rgb(235, 220, 220);
+}
+
+h3 {
+    font-family: 'Bree Serif';
+}
+
+h2.name {
+    margin: 0px 30px;
+    padding: 5px;
+    font-family: 'Staatliches';
+    font-size: 30px;
+}
+
+p.desc {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+ 
+}
+
+a[href] {
+   font-size: 17px;
+   font-family: 'kanit';
+   background-color: white;
+}
+
+h3:hover {
+    color: dimgray;
+    background-color: black;
+}
+
+table.tableone {
+    font-family: 'kanit';
+    font-size: 1rem;
+}
+
+table.tabletwo {
+    font-family: 'kanit';
+    font-size: 1rem;
+    
+}
+
+table.tablethree {
+    font-family: 'kanit';
+    font-size: 1rem; 
+}
+
+table.tablefour {
+    font-family: 'kanit';
+    font-size: 1rem;
+}
+
+table.tablefive {
+    font-family: 'kanit';
+    font-size: 1rem;
+}
+
+h2::selection {
+    color: midnightblue;
+    background-color: black;
+}
+p::selection {
+    color: midnightblue;
+    background-color: black;
+}
+
